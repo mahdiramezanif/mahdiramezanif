@@ -1,3 +1,6 @@
 ## GitHub Stats
 
-![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdiramezanif&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=mahdiramezanif&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mahdiramezanif&layout=compact&theme=tokyonight" />
+</p>
