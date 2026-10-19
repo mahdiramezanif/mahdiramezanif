@@ -36,13 +36,14 @@
 
 ## 🚀 Featured Projects
 
-| Project | What it's about |
+| Project | Highlights |
 | --- | --- |
-| [**SAZ**](https://github.com/mahdiramezanif/saz) · [Backend](https://github.com/mahdiramezanif/sazback) | A full-stack web project using **Next.js, Express, and MongoDB**. |
-| [**Class Management**](https://github.com/mahdiramezanif/class-management) | A management project with a **Python backend**, web frontend, and Docker setup. |
-| [**Linear Regression**](https://github.com/mahdiramezanif/linear-regression) | Exploring house-price prediction and implementing **linear regression** in Python. |
-| [**Graphical Game**](https://github.com/mahdiramezanif/graphical-game) | A 2D game built with **Java and Processing**, featuring collectibles and collision detection. |
-| [**Course**](https://github.com/mahdiramezanif/course) | A frontend project built with **React, TypeScript, and Tailwind CSS**. |
+| 🎙️ [**Persian Whisper ASR**](https://github.com/mahdiramezanif/whisper) | Persian speech preprocessing, dataset validation, Whisper fine-tuning workflows, and WER/CER evaluation. |
+| 🔊 [**Persian Orpheus TTS**](https://github.com/mahdiramezanif/tts) | Persian speech synthesis experiments, vLLM inference optimization, benchmarking, and speaker-focused fine-tuning research. |
+| 🛒 [**SAZ Online Store**](https://github.com/mahdiramezanif/saz) · [API](https://github.com/mahdiramezanif/sazback) | A Persian storefront built with Next.js, Express, and MongoDB; demo checkout and customer flows. |
+| 📚 [**NIT Course Frontend**](https://github.com/mahdiramezanif/course) | Course discovery and user-facing flows using React, TypeScript, and Tailwind CSS. |
+| 🗂️ [**Class Feedback Manager**](https://github.com/mahdiramezanif/class-management) | A FastAPI/PostgreSQL learning project for class notes, reporting, and management. |
+| 📈 [**House Price Regression**](https://github.com/mahdiramezanif/linear-regression) | Regression experiments and a from-scratch Python gradient-descent implementation. |
 
 ## 📊 GitHub Activity
 
